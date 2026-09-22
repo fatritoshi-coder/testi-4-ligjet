@@ -1,0 +1,11 @@
+{
+  "name": "Testi 4 Ligjet",
+  "short_name": "4 Ligjet",
+  "description": "Test ushtrues për 4 ligjet e konkursit, me rezultate dhe histori lokale.",
+  "lang": "sq",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#111827"
+}
